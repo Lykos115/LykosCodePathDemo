@@ -6,7 +6,7 @@ CodePath starter app added features where you can change the text to whatever yo
 ### App Walk-though
 
 
-<img src="http://recordit.co/jUDnsPFNEK" width=200><br>
+<img src="http://g.recordit.co/jUDnsPFNEK.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
